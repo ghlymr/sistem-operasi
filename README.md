@@ -1,4 +1,4 @@
 # sistem-operasi
-Nama : Muhammad Ghalyh Almer Amin
+Muhammad Ghalyh Almer Amin / 09011182429022
 
 
