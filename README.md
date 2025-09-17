@@ -1,2 +1,4 @@
 # sistem-operasi
-50 command line 
+Nama : Muhammad Ghalyh Almer Amin
+Kelas : SK3A
+
